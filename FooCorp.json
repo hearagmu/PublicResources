@@ -4,24 +4,36 @@
     "recipeName": "Fondue",
     "ingredients": [{
         "id": 1,
-        "ingredientName": "puff pastry",
-        "amount": "1 sheet"
+        "ingredientName": "1 clove garlic",
+        "amount": "halved"
     }, {
         "id": 2,
-        "ingredientName": "peperoni",
-        "amount": "15 slices"
+        "ingredientName": "pint white wine",
+        "amount": "290ml / ½ "
     }, {
         "id": 3,
-        "ingredientName": "marinada sauce",
-        "amount": "1 cup"
+        "ingredientName": "lemon juice",
+        "amount": "1 tsp"
     }, {
         "id": 4,
-        "ingredientName": "sherdded mozzarella cheese",
-        "amount": "1/2 cup"
+        "ingredientName": "emmental cheese grated",
+        "amount": "225g/8oz"
     }, {
         "id": 5,
-        "ingredientName": "egg. for egg wash",
-        "amount": "1"
+        "ingredientName": "gruyère cheese grated",
+        "amount": "225g/8oz"
+    }, {
+        "id": 6,
+        "ingredientName": "cornflour",
+        "amount": "1 tsp"
+    }, {
+        "id": 7,
+        "ingredientName": "kirsch (optional)",
+        "amount": "1 tbsp"
+    },{
+        "id": 8,
+        "ingredientName": "bread pieces, for dipping",
+        "amount": "cubed"
     }],
     "servings": 3
 }, {

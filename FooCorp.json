@@ -4,8 +4,8 @@
     "recipeName": "Fondue",
     "ingredients": [{
         "id": 1,
-        "ingredientName": "1 clove garlic",
-        "amount": "halved"
+        "ingredientName": "garlic halved",
+        "amount": "1 clove"
     }, {
         "id": 2,
         "ingredientName": "pint white wine",

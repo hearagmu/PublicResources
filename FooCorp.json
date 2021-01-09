@@ -2,6 +2,7 @@
     "id": 1,
     "image": "https://www.superama.com.mx/views/micrositio/recetas/images/queso-pan-vino/fondue/Web_fotoreceta.jpg",
     "recipeName": "Fondue",
+    "cat": "T",
     "ingredients": [{
         "id": 1,
         "ingredientName": "garlic halved",
@@ -40,6 +41,7 @@
     "id": 2,
     "image": "https://recetas.mx/wp-content/uploads/2019/08/spaghetti-bolognese-106560-1.jpeg",
     "recipeName": "Spaghetti",
+    "cat": "T",
     "ingredients": [{
         "id": 1,
         "ingredientName": "puff pastry",
@@ -66,6 +68,7 @@
     "id": 3,
     "image": "https://www.tasteofsouthern.com/wp-content/uploads/2017/09/sausage-balls_17_enjoy.jpg",
     "recipeName": "Sausage Balls",
+    "cat": "T",
     "ingredients": [{
         "id": 1,
         "ingredientName": "puff pastry",
@@ -92,6 +95,7 @@
     "id": 4,
     "image": "https://i.ytimg.com/vi/2JFcLHT37ZM/maxresdefault.jpg",
     "recipeName": "BQQ Wings",
+    "cat": "R",
     "ingredients": [{
         "id": 1,
         "ingredientName": "puff pastry",
@@ -118,6 +122,7 @@
     "id": 5,
     "image": "https://i1.wp.com/www.sopitas.com/wp-content/uploads/2016/06/cereal-569x320.jpg",
     "recipeName": "Cereal",
+    "cat": "R",
     "ingredients": [{
         "id": 1,
         "ingredientName": "puff pastry",
@@ -144,6 +149,7 @@
     "id": 6,
     "image": "https://placeralplato.com/files/2016/01/Pizza-con-pepperoni-640x480.jpg?width=1200&enable=upscale",
     "recipeName": "Peperoni Pizza",
+    "cat": "R",
     "ingredients": [{
         "id": 1,
         "ingredientName": "puff pastry",

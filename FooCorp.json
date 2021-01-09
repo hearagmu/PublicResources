@@ -44,24 +44,60 @@
     "cat": "T",
     "ingredients": [{
         "id": 1,
-        "ingredientName": "puff pastry",
-        "amount": "1 sheet"
+        "ingredientName": "spaghetti noodles",
+        "amount": "1 lb"
     }, {
         "id": 2,
-        "ingredientName": "peperoni",
-        "amount": "15 slices"
+        "ingredientName": "Italian tomato sauce (the kind they used was called “Italian” but tasted sweet and was very smooth in texture)",
+        "amount": "1 lb"
     }, {
         "id": 3,
-        "ingredientName": "marinada sauce",
-        "amount": "1 cup"
+        "ingredientName": "tomato paste",
+        "amount": "8 ounces"
     }, {
         "id": 4,
-        "ingredientName": "sherdded mozzarella cheese",
-        "amount": "1/2 cup"
+        "ingredientName": "minced onion",
+        "amount": "2 tablespoons"
     }, {
         "id": 5,
-        "ingredientName": "egg. for egg wash",
-        "amount": "1"
+        "ingredientName": "minced garlic",
+        "amount": "2 tablespoons"
+    }, {
+        "id": 6,
+        "ingredientName": "oil",
+        "amount": "2 tablespoons"
+    }, {
+        "id": 7,
+        "ingredientName": "ground pork",
+        "amount": "1 lb"
+    }, {
+        "id": 8,
+        "ingredientName": "minced carrots and red peppers",
+        "amount": "½ cup"
+    }, {
+        "id": 9,
+        "ingredientName": "diced or thinly sliced hot dogs",
+        "amount": "2 cups"
+    }, {
+        "id": 10,
+        "ingredientName": "water",
+        "amount": "1 cup"
+    }, {
+        "id": 11,
+        "ingredientName": "salt",
+        "amount": "1 tablespoon"
+    }, {
+        "id": 12,
+        "ingredientName": "seasoning mix",
+        "amount": "1 teaspoon"
+    }, {
+        "id": 13,
+        "ingredientName": "evaporated milk",
+        "amount": "7 ounces"
+    }, {
+        "id": 14,
+        "ingredientName": "grated cheese for topping (they use a processed cheese similar to Velveeta)",
+        "amount": "1 lb"
     }],
     "servings": 3
 }, {
@@ -71,24 +107,16 @@
     "cat": "T",
     "ingredients": [{
         "id": 1,
-        "ingredientName": "puff pastry",
-        "amount": "1 sheet"
+        "ingredientName": "ground pork sausage",
+        "amount": "1 pound"
     }, {
         "id": 2,
-        "ingredientName": "peperoni",
-        "amount": "15 slices"
+        "ingredientName": "biscuit baking mix",
+        "amount": "2 cup"
     }, {
         "id": 3,
-        "ingredientName": "marinada sauce",
-        "amount": "1 cup"
-    }, {
-        "id": 4,
-        "ingredientName": "sherdded mozzarella cheese",
-        "amount": "1/2 cup"
-    }, {
-        "id": 5,
-        "ingredientName": "egg. for egg wash",
-        "amount": "1"
+        "ingredientName": "sharp Cheddar cheese, shredded",
+        "amount": "1 pound"
     }],
     "servings": 3
 }, {
@@ -98,24 +126,40 @@
     "cat": "R",
     "ingredients": [{
         "id": 1,
-        "ingredientName": "puff pastry",
-        "amount": "1 sheet"
-    }, {
-        "id": 2,
-        "ingredientName": "peperoni",
-        "amount": "15 slices"
-    }, {
-        "id": 3,
-        "ingredientName": "marinada sauce",
+        "ingredientName": "flour",
         "amount": "1 cup"
     }, {
+        "id": 2,
+        "ingredientName": "chili powder",
+        "amount": "1 teaspoon"
+    }, {
+        "id": 3,
+        "ingredientName": "kosher salt",
+        "amount": "1 teaspoon"
+    }, {
         "id": 4,
-        "ingredientName": "sherdded mozzarella cheese",
-        "amount": "1/2 cup"
+        "ingredientName": "black pepper, freshly ground",
+        "amount": "1 teaspoon"
     }, {
         "id": 5,
-        "ingredientName": "egg. for egg wash",
-        "amount": "1"
+        "ingredientName": "paprika",
+        "amount": "1 teaspoon"
+    }, {
+        "id": 6,
+        "ingredientName": "garlic powder",
+        "amount": "1 teaspoon"
+    }, {
+        "id": 7,
+        "ingredientName": "chicken wings, or drumettes",
+        "amount": "20"
+    }, {
+        "id": 8,
+        "ingredientName": "BBQ sauce",
+        "amount": "1 cup"
+    }, {
+        "id": 9,
+        "ingredientName": "honey",
+        "amount": "½ cup"
     }],
     "servings": 3
 },{
@@ -125,24 +169,20 @@
     "cat": "R",
     "ingredients": [{
         "id": 1,
-        "ingredientName": "puff pastry",
-        "amount": "1 sheet"
+        "ingredientName": "Cereal",
+        "amount": "5 cups"
     }, {
         "id": 2,
-        "ingredientName": "peperoni",
-        "amount": "15 slices"
+        "ingredientName": "brown sugar",
+        "amount": "4 tablespoons"
     }, {
         "id": 3,
-        "ingredientName": "marinada sauce",
+        "ingredientName": "raisins",
         "amount": "1 cup"
     }, {
         "id": 4,
-        "ingredientName": "sherdded mozzarella cheese",
-        "amount": "1/2 cup"
-    }, {
-        "id": 5,
-        "ingredientName": "egg. for egg wash",
-        "amount": "1"
+        "ingredientName": "dry milk powder",
+        "amount": "3 tablespoons"
     }],
     "servings": 3
 }, {
